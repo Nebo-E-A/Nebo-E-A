@@ -2,7 +2,7 @@
 
 I'm interested in software development and AI/ML.
 
-I’m currently working as a Backend Software Developer.
+I’m currently working as a Software Developer.
 
 I’ve made my code publicly available, which I developed out of personal interest.
 
